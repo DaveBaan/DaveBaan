@@ -5,8 +5,8 @@
 - 🤔 I’m looking for help with Tech Internships and Jobs as a Frontend Dev.
 - 💬 Ask me about HTML, CSS, JavaScript.
 - 📫 How to reach me: 
-      Twitter: @BaanDave
-      Email: Davebaan33@gmail.com
-      LinkedIn: 
+- - Twitter: @BaanDave
+- - Email: Davebaan33@gmail.com
+- - LinkedIn: https://www.linkedin.com/in/david-uwandu-674a79139
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: What do you do to a grieving wood?🤔💬.... Console log.😄
