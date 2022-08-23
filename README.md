@@ -6,7 +6,7 @@
 - 💬 Ask me about HTML, CSS, JavaScript.
 - 📫 How to reach me: 
       Twitter: @BaanDave
-      Enail: Davebaan33@gmail.com
+      Email: Davebaan33@gmail.com
       LinkedIn: 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: What do you do to a grieving wood?🤔💬.... Console log.😄
